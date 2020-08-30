@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "tods (Debug)",
+			"request": "launch",
+			"preLaunchTask": "tods Win64 Debug Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "tods (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "tods Win64 DebugGame Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "tods (Development)",
+			"request": "launch",
+			"preLaunchTask": "tods Win64 Development Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "tods (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "tods Win64 Shipping Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "tods (Test)",
+			"request": "launch",
+			"preLaunchTask": "tods Win64 Test Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "todsEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "todsEditor Win64 Debug Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\tods.uproject"
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "todsEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "todsEditor Win64 DebugGame Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\tods.uproject"
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "todsEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "todsEditor Win64 Development Build",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\tods.uproject"
+			],
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\DatDudeOJ\\Documents\\Dev\\UE4_Projects\\VR\\tods\\tods.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25"
+		}
+	]
+}

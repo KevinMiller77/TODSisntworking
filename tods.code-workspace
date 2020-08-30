@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "tods",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "C:\\Users\\DatDudeOJ\\Documents\\Games\\UE_4.25"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}

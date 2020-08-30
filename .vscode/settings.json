@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/.vs": true,
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/.vscode": true,
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/Content": true,
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/DerivedDataCache": true,
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/Intermediate": true,
+		"C:/Users/DatDudeOJ/Documents/Dev/UE4_Projects/VR/tods/Saved": true
+	}
+}
